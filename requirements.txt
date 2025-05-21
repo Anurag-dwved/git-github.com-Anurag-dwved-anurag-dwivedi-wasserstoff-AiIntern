@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+httpx  # For making HTTP requests to the Groq API
+python-dotenv  # For loading environment variables from a .env file 
